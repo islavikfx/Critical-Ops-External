@@ -8,7 +8,7 @@ Run in /data/local/tmp/ by executing ./ShiticalOps in Termux or any other way wi
 
 Custom android overlay, no Ptrace, working with /dev/touch/, Android Surface, patching /proc/X/mem.
 
-Some devices like Xiaomi does not have /dev/touch/* and /dev/drm/*, they using their own logic like "xiaomi-touch". Menu may not support on some devices.
+Some devices does not have /dev/touch/* and /dev/drm/*, they using their own logic like "xiaomi-touch". Menu may not support on some devices.
 
 Screen resolution need to be adapt, it is better to do it by scaling the interface itself not through the global ImGui settings. Tested on 1600x720.
 
