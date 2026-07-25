@@ -12,7 +12,7 @@ Some devices does not have /dev/touch/* and /dev/drm/*, they using their own log
 
 Screen resolution need to be adapt, it is better to do it by scaling the interface itself not through the global ImGui settings. Tested on 1600x720.
 
-Youtube video: ...
+Youtube video: https://youtu.be/b9oSkIInVGU
 
 Channel: t.me/islavikhome
 
