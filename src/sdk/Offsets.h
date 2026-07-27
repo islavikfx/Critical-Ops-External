@@ -6,7 +6,7 @@
 // # 1.70.1.f3300 (arm64-v8a)
 namespace Offsets {
 
-    constexpr uintptr_t LibSplit = 0x13a400
+    constexpr uintptr_t LibSplit = 0x13a400;
 
     // # Anti-Cheat Bypass offsets removed by request.
     // # ** Executable file ShiticalOps apply Bypass automatically for this version.
