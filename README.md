@@ -14,7 +14,7 @@ cd /sdcard/
 git clone https://github.com/islavikfx/Critical-Ops-External.git
 su
 mv /sdcard/Critical-Ops-External /data/local/tmp
-cd /data/local/tmp
+cd /data/local/tmp/Critical-Ops-External
 su -c "sh 1.70.1.f3300x64.sh"
 ```
 
