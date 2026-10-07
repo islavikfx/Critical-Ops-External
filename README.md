@@ -24,4 +24,4 @@ Menu may not support on most devices because its working with custom logic. Try 
 
 If you will improve menu - it is better to do it by scaling the interface itself not through the global ImGui settings, use /src/overlay/SurfaceWindow.h to adapt it.
 
-Telegram & Discord: @jeddy01759
+Telegram & Discord: @islavikfx
